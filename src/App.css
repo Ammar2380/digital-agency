@@ -1,0 +1,9 @@
+@import "tailwindcss";
+/* app.css */
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { background-color: #070417; }
+/* div{
+    
+    border: 2px solid black;
+} */
+ 
